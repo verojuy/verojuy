@@ -1,53 +1,41 @@
 ###
 
-<h2>  Hola 👋 soy Veronica!! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2>  Hola 👋 soy Veronica!!   🖥️  Full-Stack Web Developer 🖥️ </h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Full Stack Web Developer <a href=HENRY</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+
+[![Linkedin: veronica](https://img.shields.io/badge/-veronica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/veronica-gonzalez-juy/)](https://www.linkedin.com/in/veronica-gonzalez-juy/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/verojuy)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco mas sobre mi...  
 
-```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, React, Redux, NodeJS, Express,Sequelize,Postgres,  ],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
+Soy desarrolladora web 👩💻 me considero una persona sociable capas de asumir retos y comprometida con lo que hago, con solidos conocimientos tecnicos y una gran hablidad para trabajar en equipo , adaptarme a las circuntancias tanto de tiempo como de exigencias y con capacidad para la resolucion de problemas
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+❤️Me gusta
+estar en constante aprendizaje , conocer gente nueva ,formar equipos de trabajo y ayudar a los demas
 
----
+📚 Me gradue en  HENRY. con mas de 800 hora de cursado teórico-práctico.
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+* 🌍  Vivo en Cordoba, Argentina
 
 
 
+<h2>💻 Estadisticas 💻</h2>
+
+![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=reeveng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+# 🖥️ Tecnologías
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,express,postgres,git,md,ai,ps" />
+  </a>
+</p>
 
 
-<!--
-**verojuy/verojuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### ✉️ Si quieres saber más sobre mi
+* Puedes contactarme por [email](mailto:verojuy.gonzalez@gmail.com) o por [Linkedln](https://www.linkedin.com/in/veronica-gonzalez-juy/)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
