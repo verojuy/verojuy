@@ -12,10 +12,10 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco mas sobre mi...  
 
-Soy desarrolladora web 👩💻 me considero una persona sociable capas de asumir retos y comprometida con lo que hago, con solidos conocimientos tecnicos y una gran hablidad para trabajar en equipo , adaptarme a las circuntancias tanto de tiempo como de exigencias y con capacidad para la resolucion de problemas
+Soy desarrolladora web 👩💻 me considero una persona sociable capas de asumir retos siempre comprometida con lo que hago con solidos conocimientos tecnicos y una gran habilidad para trabajar en equipo adaptandome a las circuntancias tanto de tiempo como de exigencias  con capacidad para la resolucion de problemas
 
 ❤️Me gusta
-estar en constante aprendizaje , conocer gente nueva ,formar equipos de trabajo y ayudar a los demas
+Estar en constante aprendizaje, conocer gente nueva, formar equipos de trabajo y ayudar a los demas
 
 📚 Me gradue en  HENRY. con mas de 800 hora de cursado teórico-práctico.
 
@@ -23,9 +23,13 @@ estar en constante aprendizaje , conocer gente nueva ,formar equipos de trabajo 
 
 
 
-<h2>💻 Estadisticas 💻</h2>
+## 📈 Mis Estadísticas
+<a href="http://www.github.com/Auriarte20"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Auriarte20&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=reeveng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<a href="https://github.com/verojuy"><img src="https://github-readme-stats.vercel.app/api?username=verojuy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="verojuy's GitHub stats" /></a>
+
+<a href="https://github.com/auriarte20" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auriarte20&langs_count=10&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
 # 🖥️ Tecnologías
 <p align="left">
@@ -38,4 +42,10 @@ estar en constante aprendizaje , conocer gente nueva ,formar equipos de trabajo 
 
 ### ✉️ Si quieres saber más sobre mi
 * Puedes contactarme por [email](mailto:verojuy.gonzalez@gmail.com) o por [Linkedln](https://www.linkedin.com/in/veronica-gonzalez-juy/)!
+
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=550&height=100&lines=El+mundo+necesita+mas+gente+ame+lo+que+hace)](https://git.io/typing-svg)❤️
+
 
