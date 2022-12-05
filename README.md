@@ -14,6 +14,7 @@
 Soy desarrolladora web 👩💻 me considero una persona sociable capas de asumir retos siempre comprometida con lo que hago con solidos conocimientos tecnicos y una gran habilidad para trabajar en equipo adaptandome a las circuntancias tanto de tiempo como de exigencias  con capacidad para la resolucion de problemas
 
 ❤️Me gusta
+
 Estar en constante aprendizaje, conocer gente nueva, formar equipos de trabajo y ayudar a los demas
 
 📚 Me gradue en  HENRY. con mas de 800 hora de cursado teórico-práctico.
